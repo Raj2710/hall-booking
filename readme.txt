@@ -1,4 +1,7 @@
+Deployment of the app in heroukuapp was removed due to the limitation in number of free apps we can have. Try the same app with your localhost. Inconvenience regretted. 
+
 Hi Welcome to my Hall Booking API Task. Consider this as a complete guide for the same.
+
 
 1. We can create a room with https://raj-hall-booking.herokuapp.com/create
 Sample Body for Creating API:
